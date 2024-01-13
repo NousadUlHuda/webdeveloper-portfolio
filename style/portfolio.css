@@ -85,7 +85,7 @@ nav a{
 /* about related styles */
 .about{
     padding: 130px;
-    margin: 130px 0px;
+    margin: 130px 230px;
     border-radius: 0px;
     background: #FFF8F3;;
 }
@@ -109,4 +109,8 @@ nav a{
 }
 .about-info{
     text-align: center;
+}
+
+.hhhh{
+    padding: 30px 130px;
 }
