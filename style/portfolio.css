@@ -7,6 +7,7 @@ nav{
     display: flex;
     justify-content: space-between;
     text-align: center;
+    margin: 0px 230px;
 }
 .nav-title{
     color: #181818;
@@ -14,7 +15,7 @@ font-size: 45px;
 font-weight: 800;
 }
 .text-primary{
-    color: orange;
+    color: #FD6E0A;
 
 }
 .btn-primary{
@@ -39,4 +40,18 @@ nav li{
 nav a{
     text-decoration: none;
     color:#474747;    ;
+}
+
+/* banner related styles */
+
+.header{
+    background: #FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.profile-pic{
+    width: 500px;
 }
