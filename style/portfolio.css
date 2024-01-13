@@ -168,4 +168,35 @@ main section{
 
 .dawnload-cv{
     text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+/*footer related styles */
+
+footer{
+    display: flex;
+    gap: 100px;
+    margin-top: 115px;
+    padding: 130px 230px;
+    background: #eebc98;
+}
+
+.footer-column{
+    width: 50%;
+}
+
+.contract, input, textarea{
+    display: block;
+    margin-bottom: 20px;
+    padding: 15px 300px 15px 15px;
+    font-size: 16px;
+    color:#33236b;
+    border-radius: 5px;
+    border: 0px;
+
+}
+
+.social-links a{
+    margin-right: 50px;
 }
