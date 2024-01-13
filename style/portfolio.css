@@ -114,3 +114,15 @@ nav a{
 .hhhh{
     padding: 30px 130px;
 }
+
+.skill-cointainer{
+    display: flex;
+    gap: 24px;
+}
+
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    background-color:aliceblue;
+}
+
